@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Foo\\Bar\\Example\\": "src/"
+            "Ltdat287\\ExamplePackage\\": "src/"
         }
     },
     "extra": {
